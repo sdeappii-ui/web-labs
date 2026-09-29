@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"org.edu.lab5","c":"Book","l":"Book(String, String)","u":"%3Cinit%3E(java.lang.String,java.lang.String)","k":"3"},{"p":"org.edu.lab5","c":"Book","l":"getAuthor()"},{"p":"org.edu.lab5","c":"Book","l":"getTitle()"}];updateSearchResults();
