@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"org.edu.lab8.client"},{"l":"org.edu.lab8.server"},{"l":"org.edu.lab8.shared"}];updateSearchResults();
